@@ -1,5 +1,6 @@
 # Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
- 
+### DATE:
+
 
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
 ## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
@@ -79,8 +80,9 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
-```py
-
+```
+DEVELOPED BY :ARAVIND SAMY.P
+REG NO:2152222230011
 
 UART_HandleTypeDef huart2;
 
